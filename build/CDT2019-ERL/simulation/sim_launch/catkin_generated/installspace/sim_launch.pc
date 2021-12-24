@@ -1,0 +1,8 @@
+prefix=/home/hsr/tiago_public_ws/install
+
+Name: sim_launch
+Description: Description of sim_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/hsr/tiago_public_ws/devel/lib/libprotobuf_comm.a CMakeFiles/protobuf_comm.dir/protobuf_comm/crypto.cpp.o CMakeFiles/protobuf_comm.dir/protobuf_comm/message_register.cpp.o CMakeFiles/protobuf_comm.dir/protobuf_comm/peer.cpp.o
+/usr/bin/ranlib /home/hsr/tiago_public_ws/devel/lib/libprotobuf_comm.a

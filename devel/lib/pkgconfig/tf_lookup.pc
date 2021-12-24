@@ -1,0 +1,8 @@
+prefix=/home/hsr/tiago_public_ws/devel
+
+Name: tf_lookup
+Description: Description of tf_lookup
+Version: 0.0.1
+Cflags: -I/home/hsr/tiago_public_ws/devel/include -I/home/hsr/tiago_public_ws/src/tf_lookup/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs geometry_msgs message_runtime tf

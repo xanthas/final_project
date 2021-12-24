@@ -1,0 +1,2 @@
+set(gaan_msgs_MESSAGE_FILES "/home/hsr/tiago_public_ws/src/CDT2019-ERL/GAAN/gaan_msgs/msg/Argument.msg")
+set(gaan_msgs_SERVICE_FILES "/home/hsr/tiago_public_ws/src/CDT2019-ERL/GAAN/gaan_msgs/srv/Command.srv;/home/hsr/tiago_public_ws/src/CDT2019-ERL/GAAN/gaan_msgs/srv/Speech.srv;/home/hsr/tiago_public_ws/src/CDT2019-ERL/GAAN/gaan_msgs/srv/Faces.srv;/home/hsr/tiago_public_ws/src/CDT2019-ERL/GAAN/gaan_msgs/srv/NavigateTo.srv;/home/hsr/tiago_public_ws/src/CDT2019-ERL/GAAN/gaan_msgs/srv/Manipulate.srv")

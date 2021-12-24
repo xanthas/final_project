@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ContactState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ContactsState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/LinkState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/LinkStates.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ModelState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ModelStates.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ODEJointProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/ODEPhysics.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/msg/WorldState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/ApplyBodyWrench.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/ApplyJointEffort.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/BodyRequest.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/DeleteLight.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/DeleteModel.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetJointProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetLightProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetLinkProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetLinkState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetModelProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetModelState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetPhysicsProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/GetWorldProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/JointRequest.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetJointProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetJointTrajectory.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetLightProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetLinkProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetLinkState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetModelConfiguration.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetModelState.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SetPhysicsProperties.js"
+  "/home/hsr/tiago_public_ws/devel/share/gennodejs/ros/gazebo_msgs/srv/SpawnModel.js"
+  "CMakeFiles/gazebo_msgs_generate_messages_nodejs"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

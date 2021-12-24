@@ -1,0 +1,8 @@
+prefix=/home/hsr/tiago_public_ws/devel
+
+Name: tiago_pick_demo
+Description: Description of tiago_pick_demo
+Version: 2.0.3
+Cflags: -I/home/hsr/tiago_public_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

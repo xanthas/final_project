@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/hsr/tiago_public_ws/devel/lib/libroah_rsbb_msgs.a CMakeFiles/roah_rsbb_msgs.dir/BenchmarkState.pb.cc.o CMakeFiles/roah_rsbb_msgs.dir/RoahRsbbBeacon.pb.cc.o CMakeFiles/roah_rsbb_msgs.dir/RobotBeacon.pb.cc.o CMakeFiles/roah_rsbb_msgs.dir/RobotState.pb.cc.o CMakeFiles/roah_rsbb_msgs.dir/TabletBeacon.pb.cc.o CMakeFiles/roah_rsbb_msgs.dir/Time.pb.cc.o
+/usr/bin/ranlib /home/hsr/tiago_public_ws/devel/lib/libroah_rsbb_msgs.a

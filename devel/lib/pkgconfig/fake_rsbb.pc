@@ -1,0 +1,8 @@
+prefix=/home/hsr/tiago_public_ws/devel
+
+Name: fake_rsbb
+Description: Description of fake_rsbb
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

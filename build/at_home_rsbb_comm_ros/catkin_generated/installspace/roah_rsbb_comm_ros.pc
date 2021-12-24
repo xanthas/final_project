@@ -1,0 +1,8 @@
+prefix=/home/hsr/tiago_public_ws/install
+
+Name: roah_rsbb_comm_ros
+Description: Description of roah_rsbb_comm_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime std_msgs std_srvs

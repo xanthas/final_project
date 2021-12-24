@@ -1,0 +1,8 @@
+prefix=/home/hsr/tiago_public_ws/devel
+
+Name: pal_robotiq_controller_configuration
+Description: Description of pal_robotiq_controller_configuration
+Version: 0.0.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

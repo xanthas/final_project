@@ -1,0 +1,6 @@
+#include "roah_rsbb_msgs/BenchmarkState.pb.h"
+#include "roah_rsbb_msgs/RoahRsbbBeacon.pb.h"
+#include "roah_rsbb_msgs/RobotBeacon.pb.h"
+#include "roah_rsbb_msgs/RobotState.pb.h"
+#include "roah_rsbb_msgs/TabletBeacon.pb.h"
+#include "roah_rsbb_msgs/Time.pb.h"
